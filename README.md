@@ -12,7 +12,7 @@ can be customized using flags `dir` and `remain`
 
 #### Installation
 to install it run
-`go install github.com/shadi/cldir`
+`go get github.com/shadi/cldir`
 
 #### Usage
 run `cldir`, it requires the environment variable $GOPATH to be set and part of $PATH environment variable
