@@ -15,7 +15,7 @@ to install it run
 `go get github.com/shadi/cldir`
 
 #### Usage
-run `cldir`, it requires the environment variable $GOPATH to be set and part of $PATH environment variable
+run `cldir`, it requires the environment variable $GOPATH/bin to be set and part of $PATH environment variable
 
 to use it with another folder and keep the last 3 files only
 `cldir -dir $SOME_DIR -remain 3`
